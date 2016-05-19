@@ -1,7 +1,5 @@
 # JEETasks
 A repository that contains multiple exercises with the Java EE Technology
-# JEETasks
-A repository that contains multiple exercises with the Java EE Technology
 
 ## Running   
 import the different folders in your IDE ( preferably netbeans )
